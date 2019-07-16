@@ -60,5 +60,5 @@ setTimeout(function () {
 
   console.log(compare(theNums,theGuesses));
 
-}, 2000);
+}, 30000);
 
